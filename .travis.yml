@@ -11,4 +11,4 @@ deploy:
   skip_cleanup: true
   provider: surge
   project: build/static
-  domain: ais-client.surge.sh  
+  domain: ais.surge.sh  
